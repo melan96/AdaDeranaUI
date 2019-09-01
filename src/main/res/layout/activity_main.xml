@@ -140,39 +140,39 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView4" />
 
-    <ImageView
-        android:id="@+id/imageView8"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="24dp"
-        android:layout_marginTop="100dp"
-        android:layout_marginEnd="25dp"
-        android:layout_marginBottom="34dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/carouselView"
-        app:srcCompat="@drawable/rectangle1" />
+<!--    <ImageView-->
+<!--        android:id="@+id/imageView8"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginStart="24dp"-->
+<!--        android:layout_marginTop="100dp"-->
+<!--        android:layout_marginEnd="25dp"-->
+<!--        android:layout_marginBottom="34dp"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/carouselView"-->
+<!--        app:srcCompat="@drawable/rectangle1" />-->
 
-    <ImageView
-        android:id="@+id/imageView9"
-        android:layout_width="69dp"
-        android:layout_height="65dp"
-        app:layout_constraintEnd_toEndOf="@+id/imageView8"
-        app:layout_constraintHorizontal_bias="0.092"
-        app:layout_constraintStart_toStartOf="@+id/imageView8"
-        app:layout_constraintTop_toTopOf="@+id/imageView8"
-        app:srcCompat="@drawable/deranalogo" />
+<!--    <ImageView-->
+<!--        android:id="@+id/imageView9"-->
+<!--        android:layout_width="69dp"-->
+<!--        android:layout_height="65dp"-->
+<!--        app:layout_constraintEnd_toEndOf="@+id/imageView8"-->
+<!--        app:layout_constraintHorizontal_bias="0.092"-->
+<!--        app:layout_constraintStart_toStartOf="@+id/imageView8"-->
+<!--        app:layout_constraintTop_toTopOf="@+id/imageView8"-->
+<!--        app:srcCompat="@drawable/deranalogo" />-->
 
-    <ImageView
-        android:id="@+id/imageView10"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:layout_constraintBottom_toBottomOf="@+id/imageView8"
-        app:layout_constraintEnd_toEndOf="@+id/imageView8"
-        app:layout_constraintStart_toStartOf="@+id/imageView8"
-        app:layout_constraintTop_toBottomOf="@+id/imageView9"
-        app:srcCompat="@drawable/ca05" />
+<!--    <ImageView-->
+<!--        android:id="@+id/imageView10"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        app:layout_constraintBottom_toBottomOf="@+id/imageView8"-->
+<!--        app:layout_constraintEnd_toEndOf="@+id/imageView8"-->
+<!--        app:layout_constraintStart_toStartOf="@+id/imageView8"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/imageView9"-->
+<!--        app:srcCompat="@drawable/ca05" />-->
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
